@@ -1,0 +1,1 @@
+Primer entorno configurado en Ubuntu con VMware y GitHub
